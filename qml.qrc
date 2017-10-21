@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Soldier1.qml</file>
+        <file>Soldier2.qml</file>
+        <file>firebrick1.png</file>
+        <file>firebrick2.png</file>
+        <file>firebrick3.png</file>
+        <file>firebrick4.png</file>
+        <file>firebrick5.png</file>
+        <file>firebrick6.png</file>
+        <file>firebrick7.png</file>
+        <file>firebrick8.png</file>
+        <file>firebrick9.png</file>
+        <file>road1.png</file>
+        <file>but1.png</file>
+        <file>but2.png</file>
+        <file>menu.png</file>
+        <file>templar_3_idle.png</file>
+        <file>templar_3_improved_slash_animation.png</file>
+        <file>templar_death_animation.png</file>
+        <file>templar_walk_animation.png</file>
+        <file>Skeleton_Attack.png</file>
+        <file>Skeleton_Dead.png</file>
+        <file>Skeleton_Idle.png</file>
+        <file>Skeleton_Walk.png</file>
+        <file>road2.png</file>
+        <file>road3.png</file>
+        <file>road4.png</file>
+        <file>road5.png</file>
+        <file>tree1.png</file>
+        <file>tree2.png</file>
+        <file>tree3.png</file>
+        <file>tree4.png</file>
+        <file>Tree.qml</file>
+        <file>sorcerer_villain_cast.png</file>
+        <file>sorcerer_villain_idle.png</file>
+        <file>Sorcerer1.qml</file>
+        <file>Sorcerer2.qml</file>
+        <file>summoner_idle_animation.png</file>
+        <file>summoner_fly_animation.png</file>
+    </qresource>
+</RCC>
